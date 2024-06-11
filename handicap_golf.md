@@ -1,4 +1,4 @@
-Short description\|Measure of a golfer's playing ability
+# Measure of a golfer's playing ability
 
 ## History
 
@@ -137,3 +137,4 @@ their round; each of these strokes are received on the lowest numbered
 stroke index holes.[^12] Stroke allowances may sometimes be reduced by a
 set percentage in order to maintain the level playing field; this is
 especially common in pairs and team competitions.
+](https://github.com/makusvankempen/taxonomy/blob/main/knowledge/sports/golf/handicap.yaml)
